@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DataLogger_NetCoreimprovement.props" />
+</Project>

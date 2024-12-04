@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DataLogger_NetCoreimprovement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\controllers\\loginmodule2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:controllers\\loginmodule2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\class\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:class\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\controllers\\devicecontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:controllers\\devicecontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\mqtt\\handlemqtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:mqtt\\handlemqtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:config.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\notifications\\onesignalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:notifications\\onesignalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\class\\ggsignln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:class\\ggsignln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\class\\devicetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:class\\devicetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\class\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:class\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\class\\accessdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:class\\accessdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\class\\devicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:class\\devicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|f:\\datalogger_netcoreimprovement\\datalogger_netcoreimprovement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1C39EE27-3D96-4149-A4DF-4CA36FF15024}|DataLogger_NetCoreimprovement.csproj|solutionrelative:datalogger_netcoreimprovement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Class\\User.cs",
+              "RelativeDocumentMoniker": "Class\\User.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Class\\User.cs",
+              "RelativeToolTip": "Class\\User.cs",
+              "ViewState": "AQIAAFIBAAAAAAAAAAAAACoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:21:39.797Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Class\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Class\\TokenGenerator.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Class\\TokenGenerator.cs",
+              "RelativeToolTip": "Class\\TokenGenerator.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAqwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:09:42.604Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "config.txt",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\config.txt",
+              "RelativeDocumentMoniker": "config.txt",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\config.txt",
+              "RelativeToolTip": "config.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-06T08:25:01.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:44:10.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Constants.cs",
+              "RelativeToolTip": "Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:02:40.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HandleMQTT.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\MQTT\\HandleMQTT.cs",
+              "RelativeDocumentMoniker": "MQTT\\HandleMQTT.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\MQTT\\HandleMQTT.cs",
+              "RelativeToolTip": "MQTT\\HandleMQTT.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAIwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:01:57.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T10:52:42.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceController2.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Controllers\\DeviceController2.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceController2.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Controllers\\DeviceController2.cs",
+              "RelativeToolTip": "Controllers\\DeviceController2.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wIUBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:45:05.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginModule2.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Controllers\\LoginModule2.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginModule2.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Controllers\\LoginModule2.cs",
+              "RelativeToolTip": "Controllers\\LoginModule2.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwBUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:08:36.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GGSignln.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Class\\GGSignln.cs",
+              "RelativeDocumentMoniker": "Class\\GGSignln.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Class\\GGSignln.cs",
+              "RelativeToolTip": "Class\\GGSignln.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwF0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:30:15.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeviceTemplate.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Class\\DeviceTemplate.cs",
+              "RelativeDocumentMoniker": "Class\\DeviceTemplate.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Class\\DeviceTemplate.cs",
+              "RelativeToolTip": "Class\\DeviceTemplate.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAwwNEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:53:05.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeviceData.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Class\\DeviceData.cs",
+              "RelativeDocumentMoniker": "Class\\DeviceData.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Class\\DeviceData.cs",
+              "RelativeToolTip": "Class\\DeviceData.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:50:37.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Class\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "Class\\ActivityLog.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Class\\ActivityLog.cs",
+              "RelativeToolTip": "Class\\ActivityLog.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:44:03.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccessData.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Class\\AccessData.cs",
+              "RelativeDocumentMoniker": "Class\\AccessData.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Class\\AccessData.cs",
+              "RelativeToolTip": "Class\\AccessData.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:40:47.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OneSignalService.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Notifications\\OneSignalService.cs",
+              "RelativeDocumentMoniker": "Notifications\\OneSignalService.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Notifications\\OneSignalService.cs",
+              "RelativeToolTip": "Notifications\\OneSignalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:06:59.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAvwGUBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:10:16.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataLogger_NetCoreimprovement.http",
+              "DocumentMoniker": "F:\\DataLogger_NetCoreimprovement\\DataLogger_NetCoreimprovement.http",
+              "RelativeDocumentMoniker": "DataLogger_NetCoreimprovement.http",
+              "ToolTip": "F:\\DataLogger_NetCoreimprovement\\DataLogger_NetCoreimprovement.http",
+              "RelativeToolTip": "DataLogger_NetCoreimprovement.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-12T14:31:39.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

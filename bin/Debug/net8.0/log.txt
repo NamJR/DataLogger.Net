@@ -1,0 +1,11 @@
+[15/10/2024 03:11:05]: config file dont exist!
+[15/10/2024 03:11:05]: version:	
+[15/10/2024 03:11:05]: MongoDB:	
+[15/10/2024 03:11:13]: config file dont exist!
+[15/10/2024 03:11:13]: version:	
+[15/10/2024 03:11:13]: MongoDB:	
+[15/10/2024 03:11:35]: version:	1.7
+[15/10/2024 03:11:35]: MongoDB:	mongodb://localhost:27017
+[15/10/2024 03:11:35]: Database:	DataLogger
+[15/10/2024 03:11:36]: API port:	8888
+[15/10/2024 03:11:36]: Hostname:	*

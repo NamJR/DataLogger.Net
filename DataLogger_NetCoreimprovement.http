@@ -1,0 +1,6 @@
+@DataLogger_NetCoreimprovement_HostAddress = http://localhost:5195
+
+GET {{DataLogger_NetCoreimprovement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,10 @@
+version:	1.7
+TCP port:	12345
+API port:	8888
+Admin account:	admin@aquasoft	admin
+Check status(s):	3
+MongoDB Connection:	mongodb://localhost:27017
+Database:	DataLogger
+Hostname:	*
+FCM:	AAAAUpMdd0o:APA91bE-p1NqyBvhqwRf_i_yPwHIBqfbxICZWjzy7_WbVNZl8yMAs5VQAVJaW4TDG4Pot5-j28JJeZINJaqQ_qCQwdhW6aj6sxHB-v8Ets8zRegcfe1FurZx3WtgaTlvsLA221Z_rDWz
+SQL:	SERVER=dongson.aquasoft.vn;PORT=3306;DATABASE=seho_advance_aqua;UID=remote;PASSWORD=Aaqq1122;default command timeout=300;SslMode=None;CharSet=utf8;

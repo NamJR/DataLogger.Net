@@ -1,0 +1,280 @@
+[25/09/2024 15:53:07]: version:	1.7
+[25/09/2024 15:53:07]: MongoDB:	mongodb://localhost:27017
+[25/09/2024 15:53:07]: Database:	DataLogger
+[25/09/2024 15:53:09]: API port:	8888
+[25/09/2024 15:53:09]: Hostname:	*
+[25/09/2024 15:54:36]: version:	1.7
+[25/09/2024 15:54:36]: MongoDB:	mongodb://localhost:27017
+[25/09/2024 15:54:36]: Database:	DataLogger
+[25/09/2024 15:54:37]: API port:	8888
+[25/09/2024 15:54:37]: Hostname:	*
+[26/09/2024 11:17:51]: version:	1.7
+[26/09/2024 11:17:51]: MongoDB:	mongodb://localhost:27017
+[26/09/2024 11:17:52]: Database:	DataLogger
+[26/09/2024 11:17:54]: API port:	8888
+[26/09/2024 11:17:54]: Hostname:	*
+[28/09/2024 08:55:57]: version:	1.7
+[28/09/2024 08:55:57]: MongoDB:	mongodb://localhost:27017
+[28/09/2024 08:55:57]: Database:	DataLogger
+[28/09/2024 08:55:59]: API port:	8888
+[28/09/2024 08:55:59]: Hostname:	*
+[28/09/2024 09:28:29]: version:	1.7
+[28/09/2024 09:28:29]: MongoDB:	mongodb://localhost:27017
+[28/09/2024 09:28:29]: Database:	DataLogger
+[28/09/2024 09:28:30]: API port:	8888
+[28/09/2024 09:28:30]: Hostname:	*
+[28/09/2024 09:47:09]: version:	1.7
+[28/09/2024 09:47:09]: MongoDB:	mongodb://localhost:27017
+[28/09/2024 09:47:10]: Database:	DataLogger
+[28/09/2024 09:47:11]: API port:	8888
+[28/09/2024 09:47:11]: Hostname:	*
+[28/09/2024 09:51:28]: version:	1.7
+[28/09/2024 09:51:28]: MongoDB:	mongodb://localhost:27017
+[28/09/2024 09:51:28]: Database:	DataLogger
+[28/09/2024 09:51:29]: API port:	8888
+[28/09/2024 09:51:29]: Hostname:	*
+[28/09/2024 09:52:34]: Check Status: -> Collection was modified; enumeration operation may not execute.
+[28/09/2024 09:53:02]: Check Status: -> Collection was modified; enumeration operation may not execute.
+[28/09/2024 10:00:37]: version:	1.7
+[28/09/2024 10:00:37]: MongoDB:	mongodb://localhost:27017
+[28/09/2024 10:00:37]: Database:	DataLogger
+[28/09/2024 10:00:38]: API port:	8888
+[28/09/2024 10:00:38]: Hostname:	*
+[28/09/2024 10:01:14]: version:	1.7
+[28/09/2024 10:01:14]: MongoDB:	mongodb://localhost:27017
+[28/09/2024 10:01:14]: Database:	DataLogger
+[28/09/2024 10:01:14]: API port:	8888
+[28/09/2024 10:01:14]: Hostname:	*
+[28/09/2024 10:02:58]: Check Status: -> Collection was modified; enumeration operation may not execute.
+[03/10/2024 02:24:53]: version:	1.7
+[03/10/2024 02:24:53]: MongoDB:	mongodb://localhost:27017
+[03/10/2024 02:24:53]: Database:	DataLogger
+[03/10/2024 02:24:57]: API port:	8888
+[03/10/2024 02:24:57]: Hostname:	*
+[03/10/2024 02:26:08]: version:	1.7
+[03/10/2024 02:26:08]: MongoDB:	mongodb://localhost:27017
+[03/10/2024 02:26:08]: Database:	DataLogger
+[03/10/2024 02:26:11]: API port:	8888
+[03/10/2024 02:26:11]: Hostname:	*
+[03/10/2024 02:29:58]: version:	1.7
+[03/10/2024 02:29:58]: MongoDB:	mongodb://localhost:27017
+[03/10/2024 02:29:58]: Database:	DataLogger
+[03/10/2024 02:30:00]: API port:	8888
+[03/10/2024 02:30:00]: Hostname:	*
+[03/10/2024 02:54:37]: version:	1.7
+[03/10/2024 02:54:37]: MongoDB:	mongodb://localhost:27017
+[03/10/2024 02:54:37]: Database:	DataLogger
+[03/10/2024 02:54:39]: API port:	8888
+[03/10/2024 02:54:39]: Hostname:	*
+[03/10/2024 02:58:00]: version:	1.7
+[03/10/2024 02:58:00]: MongoDB:	mongodb://localhost:27017
+[03/10/2024 02:58:00]: Database:	DataLogger
+[03/10/2024 02:58:02]: API port:	8888
+[03/10/2024 02:58:02]: Hostname:	*
+[03/10/2024 02:58:17]: version:	1.7
+[03/10/2024 02:58:17]: MongoDB:	mongodb://localhost:27017
+[03/10/2024 02:58:17]: Database:	DataLogger
+[03/10/2024 02:58:18]: API port:	8888
+[03/10/2024 02:58:18]: Hostname:	*
+[03/10/2024 02:59:28]: version:	1.7
+[03/10/2024 02:59:28]: MongoDB:	mongodb://localhost:27017
+[03/10/2024 02:59:28]: Database:	DataLogger
+[03/10/2024 02:59:29]: API port:	8888
+[03/10/2024 02:59:29]: Hostname:	*
+[03/10/2024 03:10:34]: version:	1.7
+[03/10/2024 03:10:34]: MongoDB:	mongodb://localhost:27017
+[03/10/2024 03:10:34]: Database:	DataLogger
+[03/10/2024 03:10:36]: API port:	8888
+[03/10/2024 03:10:36]: Hostname:	*
+[03/10/2024 10:15:14]: version:	1.7
+[03/10/2024 10:15:14]: MongoDB:	mongodb://localhost:27017
+[03/10/2024 10:15:15]: Database:	DataLogger
+[03/10/2024 10:15:18]: API port:	8888
+[03/10/2024 10:15:18]: Hostname:	*
+[06/10/2024 08:24:12]: version:	1.7
+[06/10/2024 08:24:12]: MongoDB:	mongodb://localhost:27017
+[06/10/2024 08:24:12]: Database:	DataLogger
+[06/10/2024 08:24:14]: API port:	8888
+[06/10/2024 08:24:14]: Hostname:	*
+[10/10/2024 15:43:53]: version:	1.7
+[10/10/2024 15:43:53]: MongoDB:	mongodb://localhost:27017
+[10/10/2024 15:43:54]: Database:	DataLogger
+[10/10/2024 15:43:56]: API port:	8888
+[10/10/2024 15:43:56]: Hostname:	*
+[11/10/2024 02:22:41]: version:	1.7
+[11/10/2024 02:22:41]: MongoDB:	mongodb://localhost:27017
+[11/10/2024 02:22:42]: Database:	DataLogger
+[11/10/2024 02:22:45]: API port:	8888
+[11/10/2024 02:22:45]: Hostname:	*
+[11/10/2024 02:24:20]: Check Status: -> Collection was modified; enumeration operation may not execute.
+[15/10/2024 02:51:13]: version:	1.7
+[15/10/2024 02:51:13]: MongoDB:	mongodb://localhost:27017
+[15/10/2024 02:51:13]: Database:	DataLogger
+[15/10/2024 02:51:15]: API port:	8888
+[15/10/2024 02:51:15]: Hostname:	*
+[15/10/2024 03:03:52]: version:	1.7
+[15/10/2024 03:03:52]: MongoDB:	mongodb://localhost:27017
+[15/10/2024 03:03:52]: Database:	DataLogger
+[15/10/2024 03:03:53]: API port:	8888
+[15/10/2024 03:03:53]: Hostname:	*
+[15/10/2024 03:05:33]: Check Status: -> Collection was modified; enumeration operation may not execute.
+[15/10/2024 03:10:02]: version:	1.7
+[15/10/2024 03:10:02]: MongoDB:	mongodb://localhost:27017
+[15/10/2024 03:10:02]: Database:	DataLogger
+[15/10/2024 03:10:03]: API port:	8888
+[15/10/2024 03:10:03]: Hostname:	*
+[15/10/2024 03:10:09]: version:	1.7
+[15/10/2024 03:10:09]: MongoDB:	mongodb://localhost:27017
+[15/10/2024 03:10:09]: Database:	DataLogger
+[15/10/2024 03:10:10]: API port:	8888
+[15/10/2024 03:10:10]: Hostname:	*
+[16/10/2024 17:17:29]: version:	1.7
+[16/10/2024 17:17:29]: MongoDB:	mongodb://localhost:27017
+[16/10/2024 17:17:29]: Database:	DataLogger
+[16/10/2024 17:17:31]: API port:	8888
+[16/10/2024 17:17:31]: Hostname:	*
+[19/10/2024 07:38:19]: version:	1.7
+[19/10/2024 07:38:19]: MongoDB:	mongodb://localhost:27017
+[19/10/2024 07:38:19]: Database:	DataLogger
+[19/10/2024 07:38:21]: API port:	8888
+[19/10/2024 07:38:21]: Hostname:	*
+[19/10/2024 07:49:51]: version:	1.7
+[19/10/2024 07:49:51]: MongoDB:	mongodb://localhost:27017
+[19/10/2024 07:49:51]: Database:	DataLogger
+[19/10/2024 07:49:52]: API port:	8888
+[19/10/2024 07:49:52]: Hostname:	*
+[19/10/2024 07:50:41]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[19/10/2024 07:52:46]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[11/11/2024 12:09:59]: version:	1.7
+[11/11/2024 12:09:59]: MongoDB:	mongodb://localhost:27017
+[11/11/2024 12:10:00]: Database:	DataLogger
+[11/11/2024 12:10:01]: API port:	8888
+[11/11/2024 12:10:01]: Hostname:	*
+[11/11/2024 12:10:15]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[11/11/2024 12:12:05]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[11/11/2024 12:12:16]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[11/11/2024 12:12:38]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[13/11/2024 06:05:45]: version:	1.7
+[13/11/2024 06:05:45]: MongoDB:	mongodb://localhost:27017
+[13/11/2024 06:05:46]: Database:	DataLogger
+[13/11/2024 06:05:47]: API port:	8888
+[13/11/2024 06:05:47]: Hostname:	*
+[13/11/2024 06:06:04]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[13/11/2024 06:06:30]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[15/11/2024 12:14:19]: version:	1.7
+[15/11/2024 12:14:19]: MongoDB:	mongodb://localhost:27017
+[15/11/2024 12:14:19]: Database:	DataLogger
+[15/11/2024 12:14:21]: API port:	8888
+[15/11/2024 12:14:21]: Hostname:	*
+[15/11/2024 12:14:35]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[15/11/2024 12:15:00]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[15/11/2024 18:17:20]: version:	1.7
+[15/11/2024 18:17:20]: MongoDB:	mongodb://localhost:27017
+[15/11/2024 18:17:20]: Database:	DataLogger
+[15/11/2024 18:17:22]: API port:	8888
+[15/11/2024 18:17:22]: Hostname:	*
+[15/11/2024 18:17:51]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[15/11/2024 18:19:55]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 07:48:56]: version:	1.7
+[17/11/2024 07:48:57]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 07:48:57]: Database:	DataLogger
+[17/11/2024 07:48:59]: API port:	8888
+[17/11/2024 07:48:59]: Hostname:	*
+[17/11/2024 07:49:21]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 07:54:14]: version:	1.7
+[17/11/2024 07:54:14]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 07:54:14]: Database:	DataLogger
+[17/11/2024 07:54:15]: API port:	8888
+[17/11/2024 07:54:15]: Hostname:	*
+[17/11/2024 07:54:31]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 07:56:14]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 08:02:23]: version:	1.7
+[17/11/2024 08:02:23]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 08:02:23]: Database:	DataLogger
+[17/11/2024 08:02:24]: API port:	8888
+[17/11/2024 08:02:24]: Hostname:	*
+[17/11/2024 08:02:34]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 08:03:27]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 08:05:42]: version:	1.7
+[17/11/2024 08:05:42]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 08:05:42]: Database:	DataLogger
+[17/11/2024 08:05:43]: API port:	8888
+[17/11/2024 08:05:43]: Hostname:	*
+[17/11/2024 08:05:55]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 08:06:10]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 08:18:20]: version:	1.7
+[17/11/2024 08:18:20]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 08:18:20]: Database:	DataLogger
+[17/11/2024 08:18:21]: API port:	8888
+[17/11/2024 08:18:21]: Hostname:	*
+[17/11/2024 08:18:31]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 08:20:25]: version:	1.7
+[17/11/2024 08:20:25]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 08:20:25]: Database:	DataLogger
+[17/11/2024 08:20:26]: API port:	8888
+[17/11/2024 08:20:26]: Hostname:	*
+[17/11/2024 08:20:58]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 08:21:14]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 08:25:48]: version:	1.7
+[17/11/2024 08:25:48]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 08:25:49]: Database:	DataLogger
+[17/11/2024 08:25:49]: API port:	8888
+[17/11/2024 08:25:49]: Hostname:	*
+[17/11/2024 08:26:10]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 08:26:36]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 08:27:19]: version:	1.7
+[17/11/2024 08:27:19]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 08:27:20]: Database:	DataLogger
+[17/11/2024 08:27:20]: API port:	8888
+[17/11/2024 08:27:20]: Hostname:	*
+[17/11/2024 08:27:53]: API: /api/LoginAPI/UsersLogin -> Value cannot be null. (Parameter 'key')
+[17/11/2024 09:13:50]: version:	1.7
+[17/11/2024 09:13:50]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 09:13:50]: Database:	DataLogger
+[17/11/2024 09:13:51]: API port:	8888
+[17/11/2024 09:13:51]: Hostname:	*
+[17/11/2024 09:23:15]: version:	1.7
+[17/11/2024 09:23:15]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 09:23:15]: Database:	DataLogger
+[17/11/2024 09:23:16]: API port:	8888
+[17/11/2024 09:23:16]: Hostname:	*
+[17/11/2024 09:24:34]: version:	1.7
+[17/11/2024 09:24:34]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 09:24:34]: Database:	DataLogger
+[17/11/2024 09:24:35]: API port:	8888
+[17/11/2024 09:24:35]: Hostname:	*
+[17/11/2024 09:43:54]: version:	1.7
+[17/11/2024 09:43:54]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 09:43:55]: Database:	DataLogger
+[17/11/2024 09:43:55]: API port:	8888
+[17/11/2024 09:43:55]: Hostname:	*
+[17/11/2024 09:46:32]: API: /api/LoginAPI/UsersLogin -> IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '216' bits. (Parameter 'keyBytes')
+[17/11/2024 09:53:12]: version:	1.7
+[17/11/2024 09:53:12]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 09:53:12]: Database:	DataLogger
+[17/11/2024 09:53:13]: API port:	8888
+[17/11/2024 09:53:13]: Hostname:	*
+[17/11/2024 10:00:08]: version:	1.7
+[17/11/2024 10:00:08]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 10:00:09]: Database:	DataLogger
+[17/11/2024 10:00:10]: API port:	8888
+[17/11/2024 10:00:10]: Hostname:	*
+[17/11/2024 10:00:40]: API: /api/LoginAPI/UsersLogin -> IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '216' bits. (Parameter 'keyBytes')
+[17/11/2024 10:07:49]: version:	1.7
+[17/11/2024 10:07:49]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 10:07:50]: Database:	DataLogger
+[17/11/2024 10:07:50]: API port:	8888
+[17/11/2024 10:07:50]: Hostname:	*
+[17/11/2024 10:08:20]: API: /api/LoginAPI/UsersLogin -> IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '216' bits. (Parameter 'keyBytes')
+[17/11/2024 10:13:37]: version:	1.7
+[17/11/2024 10:13:37]: MongoDB:	mongodb://localhost:27017
+[17/11/2024 10:13:38]: Database:	DataLogger
+[17/11/2024 10:13:38]: API port:	8888
+[17/11/2024 10:13:38]: Hostname:	*
+[17/11/2024 10:14:27]: API: /api/LoginAPI/UsersLogin -> IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '216' bits. (Parameter 'keyBytes')
+[18/11/2024 14:52:47]: version:	1.7
+[18/11/2024 14:52:47]: MongoDB:	mongodb://localhost:27017
+[18/11/2024 14:52:48]: Database:	DataLogger
+[18/11/2024 14:52:49]: API port:	8888
+[18/11/2024 14:52:49]: Hostname:	*
+[18/11/2024 14:55:13]: API: /api/LoginAPI/UsersLogin -> IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '216' bits. (Parameter 'keyBytes')
